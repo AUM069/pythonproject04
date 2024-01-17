@@ -1,0 +1,10 @@
+# pythonproject04
+#its a madlib project 
+#pythonproject-04
+#madlibs
+X= ("funny")
+y=("Aum")
+z= ("omkarwaghmare100@gmail.com")
+subject=("AI ")
+madlib= f"I just had to tell you how {X} you are .my name is {y} and you can get in touch with me at email address {z} . I'm dying to talk to you about {subject} . "
+print(madlib)
